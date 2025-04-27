@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection highlights five influential music albums that have shaped my personal taste and musical journey. The purpose of this collection is to celebrate important works in R&B, Hip-Hop, and Soul, focusing on albums that offer cultural significance and personal impact. The collection includes digital images of the album cover art, paired with metadata about each album's artist, genre, release date, and genre. These albums showcase the richness and diversity of contemporary Black music and its lasting influence. 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
