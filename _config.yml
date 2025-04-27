@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Shatondra's Favorite Albums 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Music is a universal language
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: This collection highlights five influential music albums that have shaped my personal taste and musical journey. The purpose of this collection is to celebrate important works in R&B, Hip-Hop, and Soul, focusing on albums that offer cultural significance and personal impact. The collection includes digital images of the album cover art, paired with metadata about each album's artist, genre, release date, and genre. These albums showcase the richness and diversity of contemporary Black music and its lasting influence.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
